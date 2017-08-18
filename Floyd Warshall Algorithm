@@ -1,5 +1,5 @@
-#include <bits/stdc++.h>  //O(Elog(V)) Dijkstra alogrithm slight changes in prims algorithm 
-using namespace std;      //both use same priority queue for maintaing edges 
+#include <bits/stdc++.h>   
+using namespace std;       
 typedef pair<int,int> pii; 
 typedef long long int ll;
 int main() {
